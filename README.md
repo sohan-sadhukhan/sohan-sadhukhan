@@ -37,5 +37,6 @@ Passionate about building scalable web applications and solving real-world probl
   <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> </a>
   &nbsp;
   <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> </a>
-  &nbsp; -->
+  &nbsp; 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> </a> -->
 </p>
