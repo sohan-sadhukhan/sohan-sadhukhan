@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Sohan Sadhukhan</h1>
-<h2>Software Engineer, Fullstack Web Developer</h2>
+<h2>Fullstack Web Developer</h2>
 Passionate about building scalable web applications and solving real-world problems through code. Always learning, always coding.
 
 <h3 align="left">🛠 Skills</h3>
