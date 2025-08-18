@@ -17,7 +17,7 @@ Passionate about building scalable web applications and solving real-world probl
  -->
 
 <p align="left">
-<!--     <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> </a>
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> </a>
   &nbsp;
     <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> </a>
   &nbsp; 
@@ -39,6 +39,6 @@ Passionate about building scalable web applications and solving real-world probl
   &nbsp;
   <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> </a>
    &nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> </a> -->
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> </a>
 </p>
 <!--  <h3 align="left">🛠 What i am currently learning:</h3> -->
