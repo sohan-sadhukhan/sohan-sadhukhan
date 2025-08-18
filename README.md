@@ -2,7 +2,7 @@
 <h2>Software Engineer, Fullstack Web Developer</h2>
 Passionate about building scalable web applications and solving real-world problems through code. Always learning, always coding.
 
-<h3 align="left">🛠 Skills:</h3>
+<h3 align="left">🛠 Skills</h3>
 <!-- <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="typescript" width="40" height="40"/> </a> 
