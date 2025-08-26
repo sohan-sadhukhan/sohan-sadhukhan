@@ -53,6 +53,4 @@ I'm a passionate developer who loves turning ideas into scalable web application
 - 💼 [LinkedIn](https://www.linkedin.com/in/sohansadhukhan/)
 - 🌐 [Portfolio](#) *(coming soon!)*
 - 📧 Email: mrsohansadhukhan@gmail.com
-
----
-
+  
